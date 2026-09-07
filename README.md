@@ -1,4 +1,4 @@
-# Validation Library
+# -- Validation Library --
 
 This IntelliJ IDEA project implements the required Java validation library in
 the `il.ac.hit.validation` package.
